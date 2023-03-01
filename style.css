@@ -147,6 +147,7 @@ input:focus {
     border-bottom: 3px solid #A91079;
     color: #2E0249;
     outline: none;
+    caret-color:#A91079;
 }
 
 button {
