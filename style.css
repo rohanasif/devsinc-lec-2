@@ -144,10 +144,9 @@ input {
 }
 
 input:focus {
-    border: none;
     border-bottom: 3px solid #A91079;
     color: #2E0249;
-    /* ask question about color and border */
+    outline: none;
 }
 
 button {
