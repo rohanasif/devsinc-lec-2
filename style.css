@@ -147,11 +147,18 @@ input:focus {
     border-bottom: 3px solid #A91079;
     color: #2E0249;
     outline: none;
-    caret-color:#A91079;
+    caret-color: #A91079;
 }
 
 button {
+    width: 315px;
+    height: 78px;
     border: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
     color: #EEEEEE;
     display: flex;
     flex-direction: row;
